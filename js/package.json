@@ -1,6 +1,6 @@
 {
   "name": "@hola.org/cloakbrowser",
-  "version": "0.3.31",
+  "version": "0.3.31-hola.0",
   "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright/Puppeteer replacement with source-level fingerprint patches.",
   "type": "module",
   "main": "dist/index.cjs",
