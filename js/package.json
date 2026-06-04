@@ -1,5 +1,5 @@
 {
-  "name": "cloakbrowser",
+  "name": "@hola.org/cloakbrowser",
   "version": "0.3.31",
   "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright/Puppeteer replacement with source-level fingerprint patches.",
   "type": "module",
@@ -54,10 +54,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CloakHQ/cloakbrowser",
+    "url": "https://github.com/hola/CloakBrowser.git",
     "directory": "js"
   },
-  "homepage": "https://github.com/CloakHQ/cloakbrowser#javascript--nodejs",
+  "homepage": "https://github.com/hola/CloakBrowser#javascript--nodejs",
   "engines": {
     "node": ">=20.0.0"
   },
