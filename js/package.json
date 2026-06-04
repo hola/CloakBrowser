@@ -24,7 +24,7 @@
     }
   },
   "bin": {
-    "cloakbrowser": "./dist/cli.js"
+    "cloakbrowser": "dist/cli.js"
   },
   "files": [
     "dist"
@@ -54,7 +54,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hola/CloakBrowser.git",
+    "url": "git+https://github.com/hola/CloakBrowser.git",
     "directory": "js"
   },
   "homepage": "https://github.com/hola/CloakBrowser#javascript--nodejs",
